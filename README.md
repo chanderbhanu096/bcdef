@@ -6,3 +6,5 @@ Technologies Used
 Android/
 Firebase/
 .xml
+
+Need to Install Android studio
